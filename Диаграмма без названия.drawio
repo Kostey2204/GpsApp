@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T06:08:36.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bqTckfyqExSua3Q6KMbn" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T06:21:06.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2YQuImYJ7vZ_daKufhuq" version="24.3.1" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -14,25 +14,25 @@
           <mxGeometry x="60" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-_P4b2OjuiRoi3wUAZY7-7" value="&lt;font color=&quot;#b5739d&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Токены&lt;br&gt;(бесплатные)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#FFCCCC;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="320" width="200" height="110" as="geometry" />
+          <mxGeometry x="90" y="295" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-_P4b2OjuiRoi3wUAZY7-8" value="&lt;font color=&quot;#b5739d&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Токены&lt;br&gt;(платные)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#D5E8D4;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="200" height="110" as="geometry" />
+          <mxGeometry x="320" y="298" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-_P4b2OjuiRoi3wUAZY7-9" value="&lt;font color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Кассовая техника&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#FFCCCC;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="320" width="200" height="110" as="geometry" />
+          <mxGeometry x="550" y="302" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-_P4b2OjuiRoi3wUAZY7-10" value="&lt;font color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Сувенирная продукция &quot;Официальный партнер&quot;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#D5E8D4;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="200" height="110" as="geometry" />
+          <mxGeometry x="320" y="168" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-_P4b2OjuiRoi3wUAZY7-11" value="&lt;font color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Сувенирная продукция &quot;ОСК&quot; 2024&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#B3FF66;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="170" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-_P4b2OjuiRoi3wUAZY7-12" value="&lt;font color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Бланки&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#D5E8D4;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="170" width="200" height="110" as="geometry" />
+          <mxGeometry x="780" y="168" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-_P4b2OjuiRoi3wUAZY7-13" value="&lt;font color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Диваны&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#D5E8D4;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="170" width="200" height="110" as="geometry" />
+          <mxGeometry x="780" y="298" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-_P4b2OjuiRoi3wUAZY7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#FFCCCC;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="550" width="50" height="30" as="geometry" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="-_P4b2OjuiRoi3wUAZY7-26" value="Хотя все это и обозначается одни словом &quot;Заказы&quot;, но для каждого из них свой бизнес-процесс.&lt;br&gt;Так, например, для токенов вводится понятие &quot;Лимита заказа&quot;, для ОСК - требуется предзаказ, &lt;br&gt;разная логика оформления счетов" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="50" y="610" width="1150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-_P4b2OjuiRoi3wUAZY7-27" value="&lt;font color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Сувенирная продукция для проекта &quot;Экстерн&quot;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#D5E8D4;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="168" width="200" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
