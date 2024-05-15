@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T11:13:13.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8UlQs93GFRRcSzJOv9bL" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T05:39:28.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9aeUn5W14aT7Bu581zos" version="24.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,22 +172,25 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pqhur3rsrstu_OfgcQVq-0" value="IOrderLifecycleService" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="480" width="370" height="190" as="geometry">
+        <mxCell id="Pqhur3rsrstu_OfgcQVq-0" value="IOrderLifecycleService" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="480" width="370" height="170" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pqhur3rsrstu_OfgcQVq-8" value="void CreateOrder(guid lifecycleModelId)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Pqhur3rsrstu_OfgcQVq-0">
+        <mxCell id="Pqhur3rsrstu_OfgcQVq-8" value="void CreateOrder(guid lifecycleModelId)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Pqhur3rsrstu_OfgcQVq-0" vertex="1">
           <mxGeometry y="26" width="370" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Pqhur3rsrstu_OfgcQVq-5" value="ILifecycleModel GetLifecycleModel(guid modelId)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Pqhur3rsrstu_OfgcQVq-0">
+        <mxCell id="Pqhur3rsrstu_OfgcQVq-5" value="ILifecycleModel GetLifecycleModel(guid modelId)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Pqhur3rsrstu_OfgcQVq-0" vertex="1">
           <mxGeometry y="52" width="370" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Pqhur3rsrstu_OfgcQVq-6" value="ILifecycleStage GetOrderLifecycleStage(guid orderId)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Pqhur3rsrstu_OfgcQVq-0">
+        <mxCell id="Pqhur3rsrstu_OfgcQVq-6" value="ILifecycleStage GetOrderLifecycleStage(guid orderId)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Pqhur3rsrstu_OfgcQVq-0" vertex="1">
           <mxGeometry y="78" width="370" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Pqhur3rsrstu_OfgcQVq-7" value="void SetOrderLifecycleStage(guid orderId, guid stageId)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Pqhur3rsrstu_OfgcQVq-0">
+        <mxCell id="Pqhur3rsrstu_OfgcQVq-7" value="void SetOrderLifecycleStage(guid orderId, guid stageId)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Pqhur3rsrstu_OfgcQVq-0" vertex="1">
           <mxGeometry y="104" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="N-FxRr29UtL7iX-K7FvS-0" value="ILifecycleModel[] GetAllLifecycleModels()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Pqhur3rsrstu_OfgcQVq-0">
+          <mxGeometry y="130" width="370" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
